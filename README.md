@@ -1,1 +1,2 @@
-# Movies-ETL
+# Project Overview
+This project followed the ETL process: extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them together, and load the cleaned dataset into a SQL database. One extract, scraped Wikipedia data, was stored as a JSON. The Kaggle data was stored in CSVs. CSVs were too large to load to Git Hub. This project used Python and Pandas to explore, document, and perform the data transformation.
